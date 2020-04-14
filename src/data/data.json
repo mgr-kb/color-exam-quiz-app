@@ -1,0 +1,492 @@
+{
+  "twoClass": [
+    {
+      "colorCode": "#FA9CB8",
+      "colorName": "鴇色",
+      "colorAlias": "ときいろ",
+      "systemColorName": "明るい紫みの赤",
+      "munsellValue": "7RP 7.5/8",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#E64B6B",
+      "colorName": "韓紅花",
+      "colorAlias": "からくれない",
+      "systemColorName": "あざやかな赤",
+      "munsellValue": "1.5R 5.5/13",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#94474B",
+      "colorName": "蘇芳",
+      "colorAlias": "すおう",
+      "systemColorName": "くすんだ赤",
+      "munsellValue": "4R 4/7",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#7A453C",
+      "colorName": "鳶色",
+      "colorAlias": "とびいろ",
+      "systemColorName": "暗い黄みの赤",
+      "munsellValue": "7.5R 3.5/5",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#863E33",
+      "colorName": "弁柄色",
+      "colorAlias": "べんがらいろ",
+      "systemColorName": "暗い黄みの赤",
+      "munsellValue": "8R 3.5/7",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#693C33",
+      "colorName": "海老茶",
+      "colorAlias": "えびちゃ",
+      "systemColorName": "暗い黄みの赤",
+      "munsellValue": "8R 3/4.5",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#EB6940",
+      "colorName": "黄丹",
+      "colorAlias": "おうに",
+      "systemColorName": "つよい黄赤",
+      "munsellValue": "10R 6/12",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#865C4B",
+      "colorName": "桧皮色",
+      "colorAlias": "ひわだいろ",
+      "systemColorName": "暗い灰みの黄赤",
+      "munsellValue": "1YR 4.3/4",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#B26234",
+      "colorName": "代赭",
+      "colorAlias": "だいしゃ",
+      "systemColorName": "くすんだ黄赤",
+      "munsellValue": "2.5YR 5/8.5",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#FAA55C",
+      "colorName": "柑子色",
+      "colorAlias": "こうじいろ",
+      "systemColorName": "明るい黄赤",
+      "munsellValue": "5.5YR 7.5/9",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#AA7A40",
+      "colorName": "琥珀色",
+      "colorAlias": "こはくいろ",
+      "systemColorName": "くすんだ赤みの黄",
+      "munsellValue": "8YR 5.5/6.5",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#735436",
+      "colorName": "朽葉色",
+      "colorAlias": "くちばいろ",
+      "systemColorName": "灰みの赤みを帯びた黄",
+      "munsellValue": "10YR 5/2",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#EDAE00",
+      "colorName": "鬱金色",
+      "colorAlias": "うこんいろ",
+      "systemColorName": "つよい黄",
+      "munsellValue": "2Y 7.5/12",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#EAD56B",
+      "colorName": "刈安色",
+      "colorAlias": "かりやすいろ",
+      "systemColorName": "うすい緑みの黄",
+      "munsellValue": "7Y 8.5/7",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#F7FF4D",
+      "colorName": "黄蘗色",
+      "colorAlias": "きはだいろ",
+      "systemColorName": "明るい黄赤",
+      "munsellValue": "9Y 8/8",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#4D4D25",
+      "colorName": "海松色",
+      "colorAlias": "みるいろ",
+      "systemColorName": "暗い灰みの黄緑",
+      "munsellValue": "9.5Y 4.5/2.5",
+      "colorGroup": ""
+    },
+    {
+      "colorCode": "#C2BD3D",
+      "colorName": "鶸色",
+      "colorAlias": "ひわいろ",
+      "systemColorName": "つよい黄緑",
+      "munsellValue": "1GY 7.5/8",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#0F7B50",
+      "colorName": "常盤色",
+      "colorAlias": "ときわいろ",
+      "systemColorName": "こい緑",
+      "munsellValue": "3G 4.5/7",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#4D8169",
+      "colorName": "緑青色",
+      "colorAlias": "ろくしょういろ",
+      "systemColorName": "くすんだ緑",
+      "munsellValue": "4G 5/4",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#24433D",
+      "colorName": "鉄色",
+      "colorAlias": "てついろ",
+      "systemColorName": "ごく暗い青緑",
+      "munsellValue": "2.5BG 2.5/2.5",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#53A8B7",
+      "colorName": "新橋色",
+      "colorAlias": "しんばしいろ",
+      "systemColorName": "明るい緑みの青",
+      "munsellValue": "2.5B 6.5/5.5",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#0C687C",
+      "colorName": "納戸色",
+      "colorAlias": "なんどいろ",
+      "systemColorName": "つよい緑みの青",
+      "munsellValue": "4B 4/6",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#7EB1C1",
+      "colorName": "瓶覗",
+      "colorAlias": "かめのぞき",
+      "systemColorName": "やわらかい緑みの青",
+      "munsellValue": "4.5B 7/4",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#2B618F",
+      "colorName": "縹色",
+      "colorAlias": "はなだいろ",
+      "systemColorName": "つよい青",
+      "munsellValue": "3PB 4/7.5",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#A194C8",
+      "colorName": "藤色",
+      "colorAlias": "ふじいろ",
+      "systemColorName": "明るい青紫",
+      "munsellValue": "10PB 6.5/6.5",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#614876",
+      "colorName": "江戸紫",
+      "colorAlias": "えどむらさき",
+      "systemColorName": "こい青みの紫",
+      "munsellValue": "3P 3.5/7",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#765276",
+      "colorName": "古代紫",
+      "colorAlias": "こだいむらさき",
+      "systemColorName": "くすんだ紫",
+      "munsellValue": "7.5P 4/6",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#9C9C9C",
+      "colorName": "銀鼠",
+      "colorAlias": "ぎんねず",
+      "systemColorName": "明るい灰色",
+      "munsellValue": "N6.5",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#998D85",
+      "colorName": "茶鼠",
+      "colorAlias": "ちゃねずみ",
+      "systemColorName": "黄赤みの灰色",
+      "munsellValue": "5YR 6/1",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#6E7971",
+      "colorName": "利休鼠",
+      "colorAlias": "りきゅうねずみ",
+      "systemColorName": "緑みの灰色",
+      "munsellValue": "2.5G 5/1",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#5D5245",
+      "colorName": "煤竹色",
+      "colorAlias": "すすたけいろ",
+      "systemColorName": "赤みを帯びた黄みの暗い灰色",
+      "munsellValue": "9.5YR 3.5/1.5",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#C67A85",
+      "colorName": "オールドローズ",
+      "colorAlias": "old rose",
+      "systemColorName": "やわらかい赤",
+      "munsellValue": "1R 6/6.5",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#DF334D",
+      "colorName": "ポピーレッド",
+      "colorAlias": "poppy red",
+      "systemColorName": "あざやかな赤",
+      "munsellValue": "4R 5/14",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#662B2C",
+      "colorName": "マルーン",
+      "colorAlias": "maroon",
+      "systemColorName": "暗い赤",
+      "munsellValue": "5R 2.5/6",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#A95045",
+      "colorName": "テラコッタ",
+      "colorAlias": "terracotta",
+      "systemColorName": "くすんだ黄みの赤",
+      "munsellValue": "7.5R 4.5/8",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#FC5A2A",
+      "colorName": "チャイニーズレッド",
+      "colorAlias": "chinese red",
+      "systemColorName": "あざやかな黄赤",
+      "munsellValue": "10R 6/15",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#A2553C",
+      "colorName": "バーントシェンナ",
+      "colorAlias": "burnt sienna",
+      "systemColorName": "くすんだ黄赤",
+      "munsellValue": "10R 4.5/7.5",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#B16329",
+      "colorName": "ローシェンナ",
+      "colorAlias": "raw sienna",
+      "systemColorName": "つよい黄赤",
+      "munsellValue": "4YR 5/9",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#9E6C3E",
+      "colorName": "タン",
+      "colorAlias": "tan",
+      "systemColorName": "くすんだ黄赤",
+      "munsellValue": "6YR 5/6",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#F5CDA6",
+      "colorName": "エクルベイジュ",
+      "colorAlias": "ecru beige",
+      "systemColorName": "うすい赤みの黄",
+      "munsellValue": "7.5YR 8.5/4",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#E89A3C",
+      "colorName": "ゴールデンイエロー",
+      "colorAlias": "golden yellow",
+      "systemColorName": "つよい赤みの黄",
+      "munsellValue": "7.5YR 7/10",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#AA7A40",
+      "colorName": "アンバー",
+      "colorAlias": "amber",
+      "systemColorName": "くすんだ赤みの黄",
+      "munsellValue": "8YR 5.5/6.5",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#57462C",
+      "colorName": "バーントアンバー",
+      "colorAlias": "burnt umber",
+      "systemColorName": "ごく暗い赤みの黄",
+      "munsellValue": "10YR 3/3",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#EEC063",
+      "colorName": "ネープルスイエロー",
+      "colorAlias": "Naples yellow",
+      "systemColorName": "つよい黄",
+      "munsellValue": "2.5Y 8/7.5",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#765B1B",
+      "colorName": "ローアンバー",
+      "colorAlias": "raw umber",
+      "systemColorName": "暗い黄",
+      "munsellValue": "2.5Y 4/6",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#F4D500",
+      "colorName": "ジョンブリアン",
+      "colorAlias": "jaune brillant",
+      "systemColorName": "あざやかな黄",
+      "munsellValue": "5Y 8.5/14",
+      "colorGroup": "red"
+    },
+    {
+      "colorCode": "#C0D136",
+      "colorName": "シャトルーズグリーン",
+      "colorAlias": "chartreuse green",
+      "systemColorName": "明るい黄緑",
+      "munsellValue": "4GY 8/10",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#89983B",
+      "colorName": "リーフグリーン",
+      "colorAlias": "leaf green",
+      "systemColorName": "つよい黄緑",
+      "munsellValue": "5GY 6/7",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#737C3E",
+      "colorName": "グラスグリーン",
+      "colorAlias": "grass green",
+      "systemColorName": "くすんだ黄緑",
+      "munsellValue": "5GY 5/5",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#A2D29E",
+      "colorName": "アップルグリーン",
+      "colorAlias": "apple green",
+      "systemColorName": "やわらかい黄みの緑",
+      "munsellValue": "10GY 8/5",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#58CE91",
+      "colorName": "ミントグリーン",
+      "colorAlias": "mint green",
+      "systemColorName": "明るい緑",
+      "munsellValue": "2.5G 7.5/8",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#107E4D",
+      "colorName": "マラカイトグリーン",
+      "colorAlias": "malachite green",
+      "systemColorName": "こい緑",
+      "munsellValue": "4G 4.5/9",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#1F4537",
+      "colorName": "ボトルグリーン",
+      "colorAlias": "bottle green",
+      "systemColorName": "ごく暗い緑",
+      "munsellValue": "5G 2.5/3",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#117D7F",
+      "colorName": "ピーコックグリーン",
+      "colorAlias": "piacock green",
+      "systemColorName": "あざやかな青緑",
+      "munsellValue": "7.5BG 4.5/9",
+      "colorGroup": "green"
+    },
+    {
+      "colorCode": "#3D8E95",
+      "colorName": "ナイルブルー",
+      "colorAlias": "Nile blue",
+      "systemColorName": "くすんだ青緑",
+      "munsellValue": "10BG 5.5/5",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#0F73A2",
+      "colorName": "セルリアンブルー",
+      "colorAlias": "cerulean blue",
+      "systemColorName": "あざやかな青",
+      "munsellValue": "9B 4.5/9",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#252935",
+      "colorName": "ミッドナイトブルー",
+      "colorAlias": "midnight blue",
+      "systemColorName": "ごく暗い紫みの青",
+      "munsellValue": "5PB 1.5/2",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#7966C3",
+      "colorName": "ウイスタリア",
+      "colorAlias": "wistaria",
+      "systemColorName": "あざやかな青紫",
+      "munsellValue": "10PB 5/12",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#C29DC8",
+      "colorName": "ライラック",
+      "colorAlias": "lilac",
+      "systemColorName": "やわらかい紫",
+      "munsellValue": "6P 7/6",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#515356",
+      "colorName": "スレートグレイ",
+      "colorAlias": "slate grey",
+      "systemColorName": "暗い灰色",
+      "munsellValue": "2.5PB 3.5/0.5",
+      "colorGroup": "blue"
+    },
+    {
+      "colorCode": "#202020",
+      "colorName": "ランプブラック",
+      "colorAlias": "lamp black",
+      "systemColorName": "黒",
+      "munsellValue": "N1",
+      "colorGroup": "other"
+    }
+  ]
+}

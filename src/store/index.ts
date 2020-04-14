@@ -1,15 +1,23 @@
-import Vue from 'vue'
-import Vuex from 'vuex'
+import Vue from "vue";
+import Vuex from "vuex";
 
-Vue.use(Vuex)
+Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
+    mode: false,
+    quizNum: 10,
+    answeredColorDataList: [] as string[]
   },
   mutations: {
-  },
-  actions: {
-  },
-  modules: {
+    setMode(state, { mode }) {
+      state.mode = mode;
+    },
+    setQuizNum(state, { quizNum }) {
+      state.quizNum = quizNum;
+    },
+    pushAnsewered(state, { colorData }) {
+      state.answeredColorDataList.push(colorData);
+    }
   }
-})
+});
