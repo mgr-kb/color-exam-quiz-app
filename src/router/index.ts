@@ -19,7 +19,7 @@ const routes: Array<RouteConfig> = [
   },
   {
     path: "*",
-    name: "Not Found",
+    name: "NotFound",
     component: NotFound
   }
 ];

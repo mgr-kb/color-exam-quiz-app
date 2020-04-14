@@ -13,7 +13,7 @@
       </v-card>
     </div>
     <div v-else>
-      <h1 class="text-center  title">
+      <h1 class="text-center title">
         Q.この色の"{{ routeJp }}"を選択して下さい。
       </h1>
       <p class="text-center">回答数: {{ nowCount }} / {{ quizNum }}</p>
@@ -25,10 +25,10 @@
       >
       </v-card>
       <v-card class="mx-auto" max-width="360">
-        <v-card-actions class="ma-2">
+        <v-card-actions>
           <ul class="mx-auto">
             <li
-              class="v-list"
+              class="v-list d-xs-pa-1  d-sm-pa-2"
               v-for="item in choiceColors"
               :key="item.colorName"
             >
@@ -37,32 +37,39 @@
                 @click="answer(item.colorName)"
                 :class="[choiceName === item.colorName ? 'active' : '']"
                 width="240"
+                :small="true"
               >
                 {{ item[route] }}
               </v-btn>
             </li>
           </ul>
         </v-card-actions>
-        <div v-if="answered" class="pa-3">
+        <div v-if="answered" class="d-xs-pa-2">
           <div v-if="correctStatus">
-            <p class="bold red--text">正解!</p>
+            <p class="bold red--text body-2">正解!</p>
           </div>
           <div v-else>
-            <p class="bold blue--text">不正解...</p>
+            <p class="bold blue--text body-2">不正解...</p>
           </div>
-          <ul>
-            <li class="v-list">【カラーコード】 {{ correctData.colorCode }}</li>
-            <li class="v-list">【カラーネーム】 {{ correctData.colorName }}</li>
-            <li class="v-list">【別名】 {{ correctData.colorAlias }}</li>
-            <li class="v-list">
+          <ul class="caption">
+            <li class="v-list d-xs-pa-1 d-sm-pa-2">
+              【カラーコード】 {{ correctData.colorCode }}
+            </li>
+            <li class="v-list d-xs-pa-1 d-sm-pa-2">
+              【カラーネーム】 {{ correctData.colorName }}
+            </li>
+            <li class="v-list d-xs-pa-1 d-sm-pa-2">
+              【別名】 {{ correctData.colorAlias }}
+            </li>
+            <li class="v-list d-xs-pa-1 d-sm-pa-2">
               【系統色名】 {{ correctData.systemColorName }}
             </li>
-            <li class="v-list">
+            <li class="v-list d-xs-pa-1 d-sm-pa-2">
               【マンセル値】 {{ correctData.munsellValue }}
             </li>
           </ul>
-          <div class="text-center">
-            <v-btn @click="next">次へ</v-btn>
+          <div class="text-center pa-2">
+            <v-btn @click="next" :small="true">次へ</v-btn>
           </div>
         </div>
       </v-card>

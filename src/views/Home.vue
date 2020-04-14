@@ -6,7 +6,7 @@
     </v-card-title>
     <v-img
       src="../assets/kid_job_girl_artist.png"
-      max-width="120"
+      max-width="80"
       class="mx-auto"
     ></v-img>
     <v-card-actions class="ma-2">
@@ -15,15 +15,17 @@
           <v-select :items="quizNum" label="回答数" v-model="selectQuizNum" />
         </li>
         <li class="v-list">
-          <v-btn @click="setMode('colorName')" width="240">色名</v-btn>
+          <v-btn @click="setMode('colorName')" width="240" :small="true"
+            >色名</v-btn
+          >
         </li>
         <li class="v-list">
-          <v-btn @click="setMode('systemColorName')" width="240"
+          <v-btn @click="setMode('systemColorName')" width="240" :small="true"
             >系統色名</v-btn
           >
         </li>
         <li class="v-list">
-          <v-btn @click="setMode('munsellValue')" width="240"
+          <v-btn @click="setMode('munsellValue')" width="240" :small="true"
             >マンセル値(HV/C)</v-btn
           >
         </li>
