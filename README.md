@@ -1,5 +1,7 @@
 # color-exam-quiz-app
 
+URL: https://color-exam-quiz-app.firebaseapp.com/
+
 ## Project setup
 ```
 yarn install
