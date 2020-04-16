@@ -1,0 +1,25 @@
+version: 2
+jobs:
+  deploy_app:
+    docker:
+      - image: circleci/node:12.13 # ジョブ実行環境のDockerイメージ
+    steps:
+      - checkout
+      - run:
+          name: yarn install
+          command: yarn
+      - run:
+          name: build
+          command: yarn run build
+      - run:
+          name: deploy to Firebase Hosting
+          command: ./node_modules/.bin/firebase deploy --token=$FIREBASE_TOKEN
+
+workflows:
+  version: 2
+  deploy_apps:
+    jobs:
+      - deploy_app:
+          filters:
+            branches:
+              only: master
