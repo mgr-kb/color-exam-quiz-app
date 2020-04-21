@@ -10,7 +10,7 @@
       class="mx-auto"
     ></v-img>
     <v-card-actions class="ma-2">
-      <ul class="mx-auto">
+      <ul class="mx-auto px-0">
         <li class="v-list">
           <v-select :items="quizNum" label="回答数" v-model="selectQuizNum" />
         </li>

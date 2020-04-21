@@ -26,7 +26,7 @@
       </v-card>
       <v-card class="mx-auto" max-width="360">
         <v-card-actions>
-          <ul class="mx-auto">
+          <ul class="mx-auto px-0">
             <li
               class="v-list d-xs-pa-1  d-sm-pa-2"
               v-for="item in choiceColors"
